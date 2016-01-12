@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_9dc1329658b9106c375b296d45b6078b69cb5e59.jar" />
+    </item>
+    <item
+        jar="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_94797072c80f9d76d66934a14d6399e1304de171.jar" />
+    </item>
+    <item
+        jar="C:\Users\claud\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.13\7fcf30c25b8f4a9379b9dad0d3f487b25272c026\slf4j-api-1.7.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7fcf30c25b8f4a9379b9dad0d3f487b25272c026">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.13_75ebc009e4b35095790fdfabe7e5c94650a7d9eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\claud\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-simple\1.7.13\8f0d8b5bf0ff295162360a0a5ebb9c945bd2b685\slf4j-simple-1.7.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f0d8b5bf0ff295162360a0a5ebb9c945bd2b685">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\slf4j-simple-1.7.13_c86e37a6791d2a89ed21023332c10febb44ebc9d.jar" />
+    </item>
+    <item
+        jar="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b318610dc91bfe1c102b1824d5d2499c0ba7c84e.jar" />
+    </item>
+    <item
+        jar="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\exploded-aar\slf4j-android\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee5773a83e0acabda1725a6a3cf75af57c70f3f6">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\slf4j-android-library-unspecified_0d50cd88f22bf37fb060b4db01eca1a6d7e3cc4e.jar" />
+    </item>
+    <item
+        jar="D:\Documenti\IDE\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Documenti\claudio\Documenti\Project\github\slf4j-android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_0c35d49deac4df5a88e95a6ee552fc4b7d9c6e3a.jar" />
+    </item>
+
+</items>
