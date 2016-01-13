@@ -9,7 +9,6 @@ import java.util.Map;
  * Logger descriptor object, act as container tree
  *
  * @author Claudio Degioanni
- * @since 1.2.0
  */
 final class Descriptor {
 	/* DEBUG */

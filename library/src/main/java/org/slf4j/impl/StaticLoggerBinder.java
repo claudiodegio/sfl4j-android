@@ -29,7 +29,6 @@ import org.slf4j.LoggerFactory;
  * module.
  * 
  * @author Claudio Degioanni
- * @since 1.2.0
  */
 public class StaticLoggerBinder {
 

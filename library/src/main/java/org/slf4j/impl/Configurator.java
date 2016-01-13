@@ -7,7 +7,6 @@ import android.util.Log;
  * Configuration class for logging system on android
  * 
  * @author Claudio Degioanni
- * @since 1.2.0
  */
 abstract class Configurator {
 	/* DEBUG */

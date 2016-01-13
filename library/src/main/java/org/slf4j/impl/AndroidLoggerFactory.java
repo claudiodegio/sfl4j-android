@@ -9,7 +9,6 @@ import org.slf4j.Logger;
  * Factory class implementation for slf4j on android
  * 
  * @author Claudio Degioanni
- * @since 1.2.0
  */
 class AndroidLoggerFactory implements ILoggerFactory {
 

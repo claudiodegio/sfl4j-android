@@ -10,7 +10,6 @@ import org.slf4j.helpers.MessageFormatter;
  * Logger implementation for slf4j
  * 
  * @author Claudio Degioanni
- * @since 1.2.0
  */
 class AndroidLogger implements Logger {
 
