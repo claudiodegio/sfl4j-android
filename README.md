@@ -1,3 +1,5 @@
-# sfl4j implemetation for android
+# sfl4j implementation for android
 
-PRova
+
+ Features
+ =======
