@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-sfl4j--android-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5146)
+
 # sfl4j implementation for android
 
 The libray support sfl4j for android platform al the moment not suport Mapped Diagnostic Context (MDC) support
